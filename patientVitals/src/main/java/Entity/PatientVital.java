@@ -22,7 +22,7 @@ public class PatientVital {
     // Getters and Setters
 
     public Long getId() {
-        return id;
+        return id; 
     }
 
     public void setId(Long id) {
@@ -40,7 +40,7 @@ public class PatientVital {
     public int getHeartRate() {
         return heartRate;
     }
-
+ 
     public void setHeartRate(int heartRate) {
         this.heartRate = heartRate;
     }
