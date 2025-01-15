@@ -1,6 +1,6 @@
 package Serviceimpl;
 
-import Entity.PatientVital;
+import Entity.PatientVital; 
 import Repository.PatientVitalRepository;
 import Service.PatientVitalService;
 import org.springframework.beans.factory.annotation.Autowired;
