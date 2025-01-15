@@ -1,5 +1,5 @@
 package Controller;
-
+  
 import Entity.PatientVital;
 import Service.PatientVitalService;
 import org.springframework.beans.factory.annotation.Autowired;
