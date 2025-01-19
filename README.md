@@ -3,7 +3,7 @@
 ## Overview
 
 The **PatientVitals** project is a Spring Boot-based application designed to track and manage the vital signs of patients. The application aims to provide healthcare professionals with a simple and efficient way to monitor patients' health metrics such as heart rate, blood pressure, temperature, oxygen levels, and more. The system allows for real-time tracking, storage, and analysis of patient data to ensure timely medical interventions.
-
+    
 ### Key Features:
 - **Patient Data Management**: Add, update, and view patients' vital signs.
 - **Real-Time Monitoring**: Continuously monitor vital signs for patients.
